@@ -1,0 +1,29 @@
+.header_background {
+    height: 100px;
+    background: pink;
+}
+
+.header_content_first {
+    margin: 0;
+    text-decoration: none;
+    display: block;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    display: block;
+    height: 110px;
+    margin: 0 auto;
+    float: right;
+}
+
+li {
+    float: left;
+}
+
+h2 {
+    float: right;
+    font-size: 20px;
+    margin-right: 10px;
+}
